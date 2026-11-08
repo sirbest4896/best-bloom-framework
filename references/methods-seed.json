@@ -1,0 +1,873 @@
+[
+ {
+  "creator": "Tetsu Kasuya — 2016 World Brewers Cup champion",
+  "difficulty": "Beginner–intermediate",
+  "doseGrams": 20,
+  "dripperSlug": "hario_v60",
+  "flavour": "High sweetness control, clean cup, low bitterness and astringency risk thanks to the coarse grind and relatively cool water. Acidity is tunable rather than maximised; body is medium-light in standard form, heavier in the many-pour variant.",
+  "grind": "Medium-coarse to coarse — coarser than Hoffmann/Rao, so the bed survives 5 draining pours",
+  "name": "Kasuya 4:6 Method",
+  "ratioLabel": "1:15",
+  "slug": "kasuya_46",
+  "sourceUrls": [
+   "https://www.coffeecalculator.app/blog/tetsu-kasuya-46-method",
+   "https://coffee-infos.com/en/articles/the-46-method",
+   "https://www.coffeeinformer.com/v60-brewing-method/"
+  ],
+  "steps": [
+   {
+    "at": "",
+    "text": "Rinse the filter, preheat, dose the coffee and level the bed.",
+    "to": null
+   },
+   {
+    "at": "0:00",
+    "text": "Pour 1 — spiral, centre out. Pours 1–2 together are the first 40%: this is your acidity ↔ sweetness dial (see How it works).",
+    "to": 60
+   },
+   {
+    "at": "0:45",
+    "text": "Pour 2 — the 40% phase is complete. Kasuya pours on the clock, about every 45 seconds, letting the bed drain substantially each time.",
+    "to": 120
+   },
+   {
+    "at": "1:30",
+    "text": "Pour 3 — the last 60% begins. Strength here is set by the NUMBER of pours, not the volume.",
+    "to": 180
+   },
+   {
+    "at": "2:15",
+    "text": "Pour 4.",
+    "to": 240
+   },
+   {
+    "at": "2:45",
+    "text": "Pour 5 — some transcriptions put this pour at 3:00; both circulate.",
+    "to": 300
+   },
+   {
+    "at": "3:30",
+    "text": "Drawdown done — lift the dripper off.",
+    "to": null
+   }
+  ],
+  "suits": "Almost everything — especially medium roasts and washed coffees where you want sweetness without muting acidity. A first dial-in method for a new bean, because it isolates two variables. Less ideal for very dense ultra-light Nordic roasts that need maximum heat and extraction.",
+  "tempLabel": "92°C (Kasuya's roast ladder: 93°C light · 88°C medium · 83°C dark)",
+  "theory": "The first 40% (120 g, in 2 pours) controls the acidity ↔ sweetness balance. Equal 60 + 60 is balanced. A SMALLER first pour (e.g. 40 g, then 80 g) brews SWEETER; a LARGER first pour (e.g. 80 g, then 40 g) brews BRIGHTER — the first water extracts proportionally more of the early, acidic fraction, and shifting volume between pours 1 and 2 shifts how much of that phase is diluted. The last 60% (180 g) controls strength and body by pour COUNT: standard is 3 × 60 g; fewer, larger pours (2 × 90 g) brew lighter and cleaner; more, smaller pours (4 × 45 g) brew stronger and heavier, because each new pour re-raises the concentration gradient and agitation. The total volume never changes. Note: some secondary variant tables label the strength direction the other way round — the direction above is the majority, Hario-published one.",
+  "totalTime": "~3:30",
+  "verified": "index",
+  "waterGrams": 300
+ },
+ {
+  "creator": "CAFEC (Sanyo Sangyo, Japan) — an older Japanese centre-pour technique",
+  "difficulty": "Intermediate–advanced in touch (few steps, hard pour)",
+  "doseGrams": 20,
+  "dripperSlug": "cafec_flower",
+  "flavour": "Pronounced sweetness and roundness, low harshness. Acidity is softer and rounder than spiral-pour V60 methods; body medium and silky; clarity good, but flavours read integrated rather than layered.",
+  "grind": "Medium to medium-coarse",
+  "name": "Osmotic Flow",
+  "ratioLabel": "1:15–1:16",
+  "slug": "cafec_osmotic_flow",
+  "sourceUrls": [
+   "https://cafec.com.au/blogs/learn/a-beginner-s-guide-to-brewing-pour-over-coffee-at-home",
+   "https://gota.cafe/en/recipes/cafec-flower-cup4/cafec-flower-cup4-osmotic",
+   "https://u3coffee.com/blog/v60-pour-over-recipes-6-to-try/"
+  ],
+  "steps": [
+   {
+    "at": "",
+    "text": "Rinse and preheat, dose, and level the bed — do not dig a deep well.",
+    "to": null
+   },
+   {
+    "at": "0:00",
+    "text": "Bloom — pour in the centre, then a small spiral to wet everything. Wait 30–45 s, until the dome rises and then starts to deflate and crack.",
+    "to": 45
+   },
+   {
+    "at": "",
+    "text": "Phase 1 — pour slowly in the centre ONLY until bubbles rise; stop, let the dome deflate, pour again. Repeat up to about a third of the total. In CAFEC's framing, this phase fixes the taste.",
+    "to": 100
+   },
+   {
+    "at": "",
+    "text": "Phase 2 — very slow, small circles around the centre, tracing where the bubbles meet the crust. Widen gradually, but never pour on the paper or the walls. Keep a shallow water layer and the dome intact; finish pouring around 2:30–3:00.",
+    "to": 300
+   },
+   {
+    "at": "3:30",
+    "text": "Drawdown done (3:30–4:00). Swirl the server.",
+    "to": null
+   }
+  ],
+  "suits": "Medium and medium-dark roasts; naturals and honeys whose fruit you want rounded, not sharpened; classic Japanese kissaten-style coffees; small single-cup brews on the CAFEC Deep 27. Less suited to ultra-light washed coffees you want to make sparkle.",
+  "tempLabel": "88–92°C (CAFEC publishes 90°C for its Deep drippers)",
+  "theory": "Keep a domed filtering layer alive. Slow centre pouring creates a concentration difference — strong coffee below, fresh water above — and CAFEC calls the resulting convection “osmotic pressure”. Extraction proceeds with minimal agitation: no spiral washing of the walls, kettle low and slow, inflow matched to outflow. Never destroy the dome; never pour on the paper. Honest note: CAFEC's own materials are inconsistent across regions (published versions range 1:13–1:16 and 80–92°C) — the formula above is the app-safe canonical version, with a note that CAFEC publishes variants by dripper.",
+  "totalTime": "3:00–4:00",
+  "verified": "index",
+  "waterGrams": 300
+ },
+ {
+  "creator": "James Hoffmann — 2007 World Barista Champion",
+  "difficulty": "Beginner–intermediate — the most forgiving “serious” V60 recipe",
+  "doseGrams": 30,
+  "dripperSlug": "hario_v60",
+  "flavour": "Maximum sweetness and aromatic clarity at high extraction (often cited at 20–22%+). Bright but not sour when the grind is right; body medium; very clean finish.",
+  "grind": "Medium-fine",
+  "name": "Hoffmann Ultimate V60",
+  "ratioLabel": "1:16.7 (60 g/L)",
+  "slug": "hoffmann_ultimate_v60",
+  "sourceUrls": [
+   "https://honestcoffeeguide.com/brew-recipes/james-hoffmann-v60/",
+   "https://www.coffeeinformer.com/v60-brewing-method/",
+   "https://www.coffeebrewguide.com/v60/"
+  ],
+  "steps": [
+   {
+    "at": "",
+    "text": "Rinse the filter thoroughly, dose, and dig a small well in the bed. Scales down cleanly to a single cup with identical timings.",
+    "to": null
+   },
+   {
+    "at": "0:00",
+    "text": "Bloom — 2× the dose, never more than 3×. Swirl the brewer until every ground is wet and even. Bloom until 0:45.",
+    "to": 60
+   },
+   {
+    "at": "0:45",
+    "text": "Pour 1 — steady spirals up to 60% of the total, by about 1:15.",
+    "to": 300
+   },
+   {
+    "at": "1:15",
+    "text": "Pour 2 — more gently, to the full weight. Keep the brewer fairly full: that maintains slurry temperature.",
+    "to": 500
+   },
+   {
+    "at": "1:45",
+    "text": "Stir once clockwise, once anti-clockwise with a spoon to knock grounds off the walls. Let it settle a little, then one gentle swirl to flatten the bed.",
+    "to": null
+   },
+   {
+    "at": "3:30",
+    "text": "Drawdown to a flat bed — target about 3:30 total. If you're far off, adjust the grind, not the ratio or the time.",
+    "to": null
+   }
+  ],
+  "suits": "Light and light-medium roasts first; washed Ethiopians, Colombians and Kenyans; expensive beans where you want full extraction.",
+  "tempLabel": "As hot as possible — boiling / just off boil for light roasts; cooler for darker roasts",
+  "theory": "Maximum heat plus a medium-fine grind extracts dense, light-roasted beans fully; the swirl bloom and the prescribed stir-and-swirl keep the bed even without improvised agitation. Hoffmann varies temperature by roast, never the ratio.",
+  "totalTime": "~3:30",
+  "verified": "index",
+  "waterGrams": 500
+ },
+ {
+  "creator": "Scott Rao — author, The Professional Barista's Handbook",
+  "difficulty": "Intermediate",
+  "doseGrams": 20,
+  "dripperSlug": "hario_v60",
+  "flavour": "High, uniform extraction; pronounced sweetness; clarity with more body than a no-agitation cone brew. Channelling and astringency are minimised by the bloom stir plus spin.",
+  "grind": "Medium-fine",
+  "name": "Scott Rao V60 — the Rao Spin",
+  "ratioLabel": "1:17",
+  "slug": "rao_v60",
+  "sourceUrls": [
+   "https://www.coffeecalculator.app/blog/scott-rao-v60-technique/",
+   "https://acquiredcoffee.com/hario-v60-pour-over-brewing-method-recipes/"
+  ],
+  "steps": [
+   {
+    "at": "",
+    "text": "Use a plastic V60 if you have one — best heat retention, and you can pick it up to spin without burning yourself. Rinse, preheat, dose.",
+    "to": null
+   },
+   {
+    "at": "0:00",
+    "text": "Bloom — 3× the dose. Stir within the first 10 seconds to wet every ground. Rest until 0:45.",
+    "to": 60
+   },
+   {
+    "at": "0:45",
+    "text": "Pour 1 — spiral up to the mark.",
+    "to": 210
+   },
+   {
+    "at": "",
+    "text": "Pour 2 — when the slurry has receded to about half, add the rest.",
+    "to": 340
+   },
+   {
+    "at": "1:45",
+    "text": "Gentle stir around the rim to release wall grounds — then the Rao Spin: pick up the brewer and swirl it, so the slurry rotates and settles into a flat bed.",
+    "to": null
+   },
+   {
+    "at": "",
+    "text": "Draw down fully.",
+    "to": null
+   }
+  ],
+  "suits": "Light roasts and high-quality grinders (it will expose an uneven grind); washed and natural coffees alike. The default “physics-first” recipe.",
+  "tempLabel": "Just off the boil (summaries say ~97–100°C; Rao teaches “boiling”)",
+  "theory": "The reference recipe for evenness: a stirred bloom so no ground stays dry, then the spin, which levels the bed so water passes through all of it at the same rate. Rao's broader rule is worth keeping: use at least a 20 g dose for thermal stability and repeatability. (Older version: 22 g to ~352–360 g, 1:16, bloom 3× dose.)",
+  "totalTime": "3:00–3:30 (one older transcription says 4:30)",
+  "verified": "index",
+  "waterGrams": 340
+ },
+ {
+  "creator": "Hario's included-manual style recipe",
+  "difficulty": "Beginner — the easiest good pour-over-adjacent brew in this library",
+  "doseGrams": 16,
+  "dripperSlug": "hario_switch",
+  "flavour": "The sweetest, roundest, most forgiving Switch cup. Highest body of the three Switch recipes; clarity lowest — but still paper-clean.",
+  "grind": "Medium",
+  "name": "Hario Switch — Straight Immersion",
+  "ratioLabel": "1:15",
+  "slug": "switch_immersion",
+  "sourceUrls": [
+   "https://mcjones.ca/docs/recipes-for-switch/"
+  ],
+  "steps": [
+   {
+    "at": "",
+    "text": "Switch CLOSED. Rinse, preheat, dose.",
+    "to": null
+   },
+   {
+    "at": "0:00",
+    "text": "Bloom — pour, wait 30 seconds. (Some Hario materials skip the separate bloom and pour everything at once.)",
+    "to": 50
+   },
+   {
+    "at": "",
+    "text": "Pour all the remaining water in.",
+    "to": 240
+   },
+   {
+    "at": "2:00",
+    "text": "Open the switch at about 2:00–2:30. Drawdown takes roughly 30–60 seconds.",
+    "to": null
+   }
+  ],
+  "suits": "Naturals, medium and darker roasts, inconsistent grinders, and anyone who struggles with V60 drawdown.",
+  "tempLabel": "~92–93°C",
+  "theory": "Full immersion: every ground sits in the same water for the whole steep, so there is no channelling and almost nothing to get wrong. Other Hario materials publish the same method at 20 g : 300 g, also 1:15.",
+  "totalTime": "~3:00",
+  "verified": "index",
+  "waterGrams": 240
+ },
+ {
+  "creator": "Asser Christensen (The Coffee Chronicler)",
+  "difficulty": "Beginner–intermediate",
+  "doseGrams": 20,
+  "dripperSlug": "hario_switch",
+  "flavour": "Explicitly designed as the clarity of percolation plus the sweetness and body of immersion — the most balanced Switch cup.",
+  "grind": "Medium-fine",
+  "name": "Hario Switch — Coffee Chronicler Hybrid",
+  "ratioLabel": "1:15",
+  "slug": "switch_chronicler",
+  "sourceUrls": [
+   "https://www.timer.coffee/recipes/hario-switch/the-coffee-chronicler-hario-switch-recipe/?method=hario-switch&slug=the-coffee-chronicler-hario-switch-recipe",
+   "https://mcjones.ca/docs/recipes-for-switch/"
+  ],
+  "steps": [
+   {
+    "at": "",
+    "text": "Switch OPEN. Rinse, preheat, dose.",
+    "to": null
+   },
+   {
+    "at": "0:00",
+    "text": "Pour the first 50% as normal percolation — this half gives the cup its clarity.",
+    "to": 150
+   },
+   {
+    "at": "0:45",
+    "text": "CLOSE the switch. Pour the remaining 50% — this half steeps, and gives the cup its sweetness and body.",
+    "to": 300
+   },
+   {
+    "at": "2:00",
+    "text": "Open the switch and let it draw down.",
+    "to": null
+   }
+  ],
+  "suits": "The default Switch recommendation for light-medium washed coffees — and the safe first brew for any bean you know nothing about.",
+  "tempLabel": "92°C",
+  "theory": "Half percolation, half immersion, in that order: the open-valve first half extracts like a V60, then the closed-valve steep evens everything out and adds sweetness. Timer.Coffee's transcription uses 320 g of water instead of 300 g — both circulate. This is also the library's generic fallback for a bean nothing is known about: immersion forgives grind and process errors, the percolation opening preserves whatever aromatics the coffee has, and the recipe fails sweet and drinkable rather than sour or bitter.",
+  "totalTime": "~3:15",
+  "verified": "index",
+  "waterGrams": 300
+ },
+ {
+  "creator": "Tetsu Kasuya",
+  "difficulty": "Advanced — temperature drop mid-brew plus valve choreography",
+  "doseGrams": 20,
+  "dripperSlug": "hario_switch",
+  "flavour": "Very high sweetness, dense body, bright front end preserved. Among the sweetest recipes in this library.",
+  "grind": "Slightly finer than your V60 grind",
+  "name": "Kasuya “Devil” Switch — God-Devil Hybrid",
+  "ratioLabel": "1:14",
+  "slug": "kasuya_devil",
+  "sourceUrls": [
+   "https://github.com/hessius/opos/issues/1"
+  ],
+  "steps": [
+   {
+    "at": "",
+    "text": "Switch OPEN. Rinse, preheat, dose. Have room-temperature water ready — you'll cool the kettle mid-brew.",
+    "to": null
+   },
+   {
+    "at": "0:00",
+    "text": "Pour at ~90–93°C. Wait 30 seconds.",
+    "to": 60
+   },
+   {
+    "at": "",
+    "text": "Pour again — the hot percolation front (the “angel” half) is now done.",
+    "to": 120
+   },
+   {
+    "at": "",
+    "text": "Cool the kettle to ~70°C by adding room-temperature water.",
+    "to": null
+   },
+   {
+    "at": "1:15",
+    "text": "CLOSE the switch. Pour the remaining water in at 70°C. Steep about 30 seconds.",
+    "to": 280
+   },
+   {
+    "at": "1:45",
+    "text": "Open at about 1:45–2:00 and draw down. (Some transcriptions brew this at 300 g total instead of 280 g.)",
+    "to": null
+   }
+  ],
+  "suits": "Light naturals and honeys, and washed coffees that go bitter easily. A showpiece recipe, not a daily driver for most people.",
+  "tempLabel": "93°C, dropping to 70°C for the immersion finish",
+  "theory": "A 4:6 split with a temperature trick: the first 40% percolates hot, like the 4:6 Method, for a bright front end. Then the valve closes and the last 60% steeps at only ~70°C — late, cooler immersion extracts sweetness and body compounds with far less bitterness and astringency. The “angel” percolation front, the “devil” trick at the back.",
+  "totalTime": "~2:30–3:00",
+  "verified": "index",
+  "waterGrams": 280
+ },
+ {
+  "creator": "Tetsu Kasuya — January 2025 update of the Devil recipe",
+  "difficulty": "Advanced",
+  "doseGrams": 20,
+  "dripperSlug": "hario_switch",
+  "flavour": "Very high sweetness, dense body, preserved bright front end — like the Devil, with an even sweeter opening.",
+  "grind": "Medium-coarse (~28 Comandante clicks in one summary)",
+  "name": "Kasuya Super Hybrid Switch (2025)",
+  "ratioLabel": "1:15",
+  "slug": "switch_super_hybrid",
+  "sourceUrls": [
+   "https://roastaroma.com/blog/tetsu-kasuyas-evolved-hybrid-recipe-v2-super-hybrid-sneaky-recipe"
+  ],
+  "steps": [
+   {
+    "at": "",
+    "text": "Switch CLOSED to start — the reverse of the Devil recipe. Rinse, preheat, dose.",
+    "to": null
+   },
+   {
+    "at": "0:00",
+    "text": "Bloom at 90°C, in full immersion. Wait 40 seconds.",
+    "to": 45
+   },
+   {
+    "at": "",
+    "text": "OPEN the switch. Pour up to the mark — now it's percolating.",
+    "to": 120
+   },
+   {
+    "at": "1:30",
+    "text": "Pour again, still open.",
+    "to": 200
+   },
+   {
+    "at": "2:10",
+    "text": "CLOSE the switch again. Top up to the full weight with 70–80°C water. Steep about 45 seconds.",
+    "to": 300
+   },
+   {
+    "at": "2:55",
+    "text": "Open. Finish around 3:30.",
+    "to": null
+   }
+  ],
+  "suits": "Light naturals and honeys; washed coffees that go bitter easily; anyone who already knows the Devil recipe and wants its update.",
+  "tempLabel": "90°C, then 70–80°C for the final immersion",
+  "theory": "The 2025 evolution of the Devil: immersion first (a sweet, even bloom), percolation through the middle (clarity and aromatics), then a cool immersion finish (sweetness without bitterness). Three extraction modes in one brew, sequenced so each does the job it's best at.",
+  "totalTime": "~3:30",
+  "verified": "index",
+  "waterGrams": 300
+ },
+ {
+  "creator": "Consensus roaster recipe for the Kalita Wave",
+  "difficulty": "Beginner — the most forgiving mainstream pour-over method",
+  "doseGrams": 20,
+  "dripperSlug": "kalita_wave",
+  "flavour": "Sweet, round, balanced. Acidity integrated rather than sparkling; body medium (more than a V60); clarity moderate-high, with less layered separation than a cone.",
+  "grind": "Medium to medium-coarse",
+  "name": "Kalita Wave — Standard",
+  "ratioLabel": "1:16",
+  "slug": "kalita_wave_standard",
+  "sourceUrls": [
+   "https://www.craftcoffeeguru.com/kalita-wave-brew-guide/",
+   "https://ozonecoffee.co.uk/pages/kalita-wave-brew-guide"
+  ],
+  "steps": [
+   {
+    "at": "",
+    "text": "Rinse the Wave filter holding its shape — do not collapse the flutes. Dose and level.",
+    "to": null
+   },
+   {
+    "at": "0:00",
+    "text": "Bloom — about 2× the dose, for 30–40 seconds. (Bloom scales at roughly 2–3× dose at other batch sizes.)",
+    "to": 40
+   },
+   {
+    "at": "",
+    "text": "Pulse 1 — small centre circles. Keep pours in the middle of the bed; never flood the flutes.",
+    "to": 140
+   },
+   {
+    "at": "",
+    "text": "Pulse 2.",
+    "to": 230
+   },
+   {
+    "at": "",
+    "text": "Pulse 3 — finish pouring at about 2:00.",
+    "to": 320
+   },
+   {
+    "at": "3:00",
+    "text": "Drawdown done. Keep the water level in the bed, not above the grounds line, for most of the brew.",
+    "to": null
+   }
+  ],
+  "suits": "Medium roasts; chocolatey, nutty washed coffees; naturals you want sweet, not wild; brewing for consistency day after day; larger batches in the 185.",
+  "tempLabel": "92–95°C",
+  "theory": "The flat bed and three small holes meter the flow for you, so pour errors matter far less than on a cone. Published roaster ratios range 1:13–1:19; 1:16 is the consensus centre (1:15 stronger, 1:17 lighter). The dose scales freely — 30 g : 500 g in the 185, 15 g : 240–250 g in the 155 — the ratio does not change.",
+  "totalTime": "3:00–3:30 (185) · 2:45–3:15 (155)",
+  "verified": "index",
+  "waterGrams": 320
+ },
+ {
+  "creator": "Hario official recipe for the Mugen, co-designed by Tetsu Kasuya",
+  "difficulty": "Beginner — the easiest method in this library",
+  "doseGrams": 25,
+  "dripperSlug": "hario_mugen",
+  "flavour": "Surprisingly balanced, sweet and integrated. Less aromatic complexity and clarity layering than a V60; more body and viscosity.",
+  "grind": "Fine, per Hario's recipe (reviewers often succeed with medium/coarser — the Mugen's slow drawdown is what makes a fine grind survivable)",
+  "name": "Mugen One-Pour (Kasuya)",
+  "ratioLabel": "1:12",
+  "slug": "mugen_one_pour",
+  "sourceUrls": [
+   "https://www.bestcoffee.guide/blogs/product-reviews/hario-mugen-review",
+   "https://www.brewcoffeehome.com/hario-mugen-review/"
+  ],
+  "steps": [
+   {
+    "at": "",
+    "text": "Rinse, dose, level. That's the whole setup — no bloom, no stir, no pulses in this method.",
+    "to": null
+   },
+   {
+    "at": "0:00",
+    "text": "Pour ALL the water in one continuous pour, over about 15 seconds, fairly vigorously, in circles.",
+    "to": 300
+   },
+   {
+    "at": "",
+    "text": "Draw down. Hario's version targets about 90 seconds after the pour; with other doses and ratios (e.g. 15 g : 250 g) real-world totals run 2:30–4:00.",
+    "to": null
+   }
+  ],
+  "suits": "Medium roasts, daily coffee, beginners, and setups without a gooseneck kettle.",
+  "tempLabel": "93°C",
+  "theory": "The Mugen has no ribs, so the paper seals to the wall and water can only leave through the star-shaped grooves at the base — drawdown is deliberately slow and stable. That stability is the recipe: one fast pour, then the dripper meters everything itself.",
+  "totalTime": "Hario targets drawdown ~90 s after the pour; real-world totals 2:30–4:00 at other doses",
+  "verified": "index",
+  "waterGrams": 300
+ },
+ {
+  "creator": "Lance Hedrick",
+  "difficulty": "Intermediate — patience plus WDT",
+  "doseGrams": 20,
+  "dripperSlug": "hario_v60",
+  "flavour": "High clarity, tea-like delicacy, high extraction.",
+  "grind": "Medium to medium-coarse",
+  "name": "Long-Bloom One-Pour — Hedrick “1-2-1”",
+  "ratioLabel": "1:17 light · 1:15–1:16 medium · 1:14–1:15 dark",
+  "slug": "hedrick_one_pour",
+  "sourceUrls": [
+   "https://roastology.co.nz/blog/the-best-pour-over-recipe-for-your-roastology-beans",
+   "https://github.com/saievo/xbloom-cot-brew/blob/HEAD/data/brewing-reference.md"
+  ],
+  "steps": [
+   {
+    "at": "",
+    "text": "Dose, and dig a divot or well in the bed.",
+    "to": null
+   },
+   {
+    "at": "0:00",
+    "text": "Bloom — 3× the dose, poured at 6–8 g/s. Wet-WDT or stir to excavate every dry pocket, then swirl.",
+    "to": 60
+   },
+   {
+    "at": "",
+    "text": "WAIT — the long bloom is the method. Bloom to about 1:40–2:00 in total: the CO₂ fully escapes, so the single pour doesn't have to fight gas, and long pre-infusion can raise extraction by about 1% while improving evenness.",
+    "to": null
+   },
+   {
+    "at": "2:00",
+    "text": "The single main pour — all the remaining water in one continuous pour: centre-weighted tight circles at 6–8 g/s, from height for turbulence in some versions.",
+    "to": 340
+   },
+   {
+    "at": "",
+    "text": "Optional gentle swirl as the level drops. Draw down.",
+    "to": null
+   }
+  ],
+  "suits": "Light, floral, washed coffees; Gesha-style lots; low-fines grinders (ZP6-style).",
+  "tempLabel": "Boiling–96°C for light roasts, scaled down by roast",
+  "theory": "A competition-logic method simplified for home: instead of a fine grind plus agitation (which migrates fines and clogs), it uses a coarse grind, a very long bloom and pour turbulence. High extraction without fines-clogging.",
+  "totalTime": "~3:00–4:00",
+  "verified": "index",
+  "waterGrams": 340
+ },
+ {
+  "creator": "A technique layer, not one person's recipe — reference build below",
+  "difficulty": "Intermediate",
+  "doseGrams": 20,
+  "dripperSlug": "kalita_wave",
+  "flavour": "Depends where you set the dial: pulsed brews run sweeter and fuller than the same coffee poured in one go; over-pulsed brews turn muddy and astringent.",
+  "grind": "Medium-fine",
+  "name": "Pulse Pouring — the Technique",
+  "ratioLabel": "1:16",
+  "slug": "pulse_reference",
+  "sourceUrls": [
+   "https://www.baristahustle.com/post-yo-yo-pour/",
+   "https://docr.coffee/blogs/certified-good-stuff/the-longer-bloom-magic-or-mischief",
+   "https://www.moustachecoffeeclub.com/blog/coffee-agitation-methods"
+  ],
+  "steps": [
+   {
+    "at": "0:00",
+    "text": "Bloom — 45 seconds.",
+    "to": 50
+   },
+   {
+    "at": "0:45",
+    "text": "Pulse 1 — start each pulse when the slurry has dropped to just above the bed.",
+    "to": 120
+   },
+   {
+    "at": "1:30",
+    "text": "Pulse 2.",
+    "to": 190
+   },
+   {
+    "at": "2:15",
+    "text": "Pulse 3.",
+    "to": 260
+   },
+   {
+    "at": "3:00",
+    "text": "Pulse 4 — finish pouring; drawdown completes around 3:00–3:30.",
+    "to": 320
+   }
+  ],
+  "suits": "Dialling in any coffee. The default structure underneath the Kalita, April, OREA and competition recipes in this library.",
+  "tempLabel": "93–94°C",
+  "theory": "Pulsing is a family, not a recipe: bloom plus 3–5 equal pulses, each starting as the slurry drops to just above the bed. Each new pour adds fresh, unsaturated water (renewing the concentration gradient), re-agitates the bed, and raises the slurry temperature back up — all three raise extraction versus a single pour left to sit. One monitored comparison (a vendor demo, single experiment — illustrative, not peer-reviewed) measured 21.3% extraction for 5 × 50 g pulses versus 19.6% for one pour. The costs: more agitation means more fines migration, slower drawdown, clogging and astringency risk — pulse count and pour height/rate are agitation dials, and there is an optimum, not a “more is better”. Rules of thumb: more, smaller pulses → more sweetness, body and extraction, less clarity sparkle, more stall risk. Fewer, larger pulses → cleaner, brighter, thinner. On flat-beds (Kalita, OREA, April) pulsing is gentler than on a V60, because the holes meter the flow. With high-fines coffees (many Ethiopians, naturals), reduce pulses and agitation first when a brew stalls — before grinding coarser.",
+  "totalTime": "3:00–3:30",
+  "verified": "index",
+  "waterGrams": 320
+ },
+ {
+  "creator": "Patrik Rolf — April Coffee, Copenhagen",
+  "difficulty": "Beginner–intermediate",
+  "doseGrams": 13,
+  "dripperSlug": "april_brewer",
+  "flavour": "Transparent, balanced, sweet at all temperatures — April's stated design goal. Florals are preserved by the moderate temperature and low agitation.",
+  "grind": "Medium to coarse (April's own cafés: coarse; the WBrC final version: medium-fine at 14 g)",
+  "name": "April Brewer Method",
+  "ratioLabel": "1:15.4–1:16.7",
+  "slug": "april_method",
+  "sourceUrls": [
+   "https://www.kaffebox.no/product/april-pour-over-brewing-kit/",
+   "https://www.kofio.co/coffee-equipment/april-pour-over-brewer-kit-white-ceramic-set/8682?t="
+  ],
+  "steps": [
+   {
+    "at": "0:00",
+    "text": "Pour 1 — half circular, half centre: the circular half wets everything, the centre half keeps it gentle. This doubles as an extended bloom.",
+    "to": 100
+   },
+   {
+    "at": "0:35",
+    "text": "Pour 2 — the same half-and-half structure, somewhere between 0:35 and 1:15.",
+    "to": 200
+   },
+   {
+    "at": "",
+    "text": "Draw down.",
+    "to": null
+   }
+  ],
+  "suits": "Ultra-light Nordic washed coffees; floral and citrus lots — purpose-built for them. Brews on the April Brewer, or a V60/Stagg in April's other publications.",
+  "tempLabel": "92°C (April materials range 91–94°C)",
+  "theory": "Two big, structured pours and then hands off: the April Brewer's wedges and air pockets regulate the flow so the brewer, not your kettle hand, sets the pace. April also stresses water chemistry (tailored mineralisation, ~90–110 ppm in their V60 guidance) more than most methods. The World Brewers Cup final version is a 4-pour variant at 14 g: 30 g circle at 0:00, 70 g centre at 0:30, 30 g circle at 1:10, 70 g centre at 1:40, finish 3:00.",
+  "totalTime": "2:20–3:00",
+  "verified": "index",
+  "waterGrams": 200
+ },
+ {
+  "creator": "Carlos Medina — 2023 World Brewers Cup champion",
+  "difficulty": "Intermediate",
+  "doseGrams": 16,
+  "dripperSlug": "origami",
+  "flavour": "Fermentation-derived sweetness without ester sharpness; even, organised, sweet.",
+  "grind": "Medium-coarse (~750–950 µm; Comandante ~26–28 clicks)",
+  "name": "Medina Equal Pulses — 2023 World Brewers Cup",
+  "ratioLabel": "1:16",
+  "slug": "medina_competition",
+  "sourceUrls": [
+   "https://us.theroasterspack.com/blogs/news/origami-dripper-our-extensive-guide-with-recipes",
+   "https://wiki.poast.org/wiki/World_Brewers_Cup"
+  ],
+  "steps": [
+   {
+    "at": "0:00",
+    "text": "Pour 1 — circular. The first pour doubles as the bloom.",
+    "to": 50
+   },
+   {
+    "at": "0:30",
+    "text": "Pour 2 — circular, same size, on the metronome.",
+    "to": 100
+   },
+   {
+    "at": "1:00",
+    "text": "Pour 3.",
+    "to": 150
+   },
+   {
+    "at": "1:30",
+    "text": "Pour 4.",
+    "to": 200
+   },
+   {
+    "at": "2:00",
+    "text": "Pour 5 — the last of five equal pours.",
+    "to": 250
+   },
+   {
+    "at": "2:40",
+    "text": "Remove the dripper at about 2:40.",
+    "to": null
+   }
+  ],
+  "suits": "Naturals and anaerobic coffees at light-medium roast; Origami or V60.",
+  "tempLabel": "91°C",
+  "theory": "Metronomic equal pulses plus a moderate 91°C: enough agitation and heat to extract fully, never enough to sharpen the fermentation esters in his coffee — a natural Sidra. Brewed on an Origami Air S with a conical CAFEC Abaca filter, with 65 ppm water at an equal Ca:Mg ratio. Also worth knowing: Du Jianing's 2019 WBrC win used an Origami with a flat Kalita Wave filter — 16 g : 240 g at 94°C, about 1:40 extraction — the historical reason Origami + Wave paper is a competition staple.",
+  "totalTime": "2:40–3:30 across transcriptions",
+  "verified": "index",
+  "waterGrams": 250
+ },
+ {
+  "creator": "The classic method for the Chemex (Peter Schlumbohm, 1941)",
+  "difficulty": "Beginner–intermediate",
+  "doseGrams": 30,
+  "dripperSlug": "chemex",
+  "flavour": "The cleanest, most tea-like cup in this library. Acidity and florals shine; chocolate- and body-led coffees can taste thin.",
+  "grind": "Medium-coarse — coarser than V60, or it over-extracts while it crawls",
+  "name": "Chemex Classic",
+  "ratioLabel": "1:15–1:17",
+  "slug": "chemex_classic",
+  "sourceUrls": [
+   "https://coffeebros.com/pages/chemex-brew-guide",
+   "https://www.coffeecessory.com/blog/chemex-vs-hario-v60.html"
+  ],
+  "steps": [
+   {
+    "at": "",
+    "text": "Rinse the thick Chemex filter well — it needs it. Dose and level.",
+    "to": null
+   },
+   {
+    "at": "0:00",
+    "text": "Bloom — 2–3× the dose, 45 seconds.",
+    "to": 90
+   },
+   {
+    "at": "",
+    "text": "Slow spiral pulses up to the full weight. The thick filter slows everything down; patience is the technique.",
+    "to": 500
+   },
+   {
+    "at": "",
+    "text": "Drawdown done at about 4:00–5:00.",
+    "to": null
+   }
+  ],
+  "suits": "Washed florals at larger batch sizes (the 30–42 g : 500–700 g range).",
+  "tempLabel": "93–96°C",
+  "theory": "On a Chemex the filter, not a hole, governs drainage — the bonded paper is 20–30% thicker than standard and strips oils and fines aggressively. That is the whole flavour signature, and also why small doses over-extract: the brew crawls.",
+  "totalTime": "4:00–5:00",
+  "verified": "index",
+  "waterGrams": 500
+ },
+ {
+  "creator": "Tetsu Kasuya — 10th-anniversary method",
+  "difficulty": "Intermediate",
+  "doseGrams": 20,
+  "dripperSlug": "hario_v60",
+  "flavour": "Aims at thick body and sweetness (per the single source).",
+  "grind": "Super-coarse (Comandante 40–45 clicks reported)",
+  "name": "Kasuya Multi-Pour “Neo Brew” (2026)",
+  "ratioLabel": "1:15",
+  "slug": "kasuya_multipour_2026",
+  "sourceUrls": [
+   "https://roastaroma.com/blog/tetsu-kasuyas-new-multi-pour-method-2026-the-10-pour-super-coarse-v60-recipe"
+  ],
+  "steps": [
+   {
+    "at": "0:00",
+    "text": "Bloom pour — then keep pouring in equal small pours, one every ~15 seconds.",
+    "to": 30
+   },
+   {
+    "at": "",
+    "text": "Continue the equal pours until the full weight is in — 10 pours in total.",
+    "to": 300
+   },
+   {
+    "at": "",
+    "text": "Draw down.",
+    "to": null
+   }
+  ],
+  "suits": "Experimenters who already know the 4:6 Method and want its 2026 counterpoint.",
+  "tempLabel": "95–96°C",
+  "theory": "⚠ Single source: this method rests on one secondary report (RoastAroma) in the research — treat it as emerging, not canonical. The idea inverts the classic 4:6: super-coarse grounds, hotter water, and many tiny pours, aiming at thick body and sweetness.",
+  "totalTime": "Not stated in the source",
+  "verified": "single-source",
+  "waterGrams": 300
+ },
+ {
+  "creator": "Tetsu Kasuya — 2016 World Brewers Cup champion",
+  "difficulty": "Beginner–intermediate",
+  "doseGrams": 20,
+  "dripperSlug": "hario_v60_kasuya",
+  "flavour": "High sweetness control, clean cup, low bitterness and astringency risk thanks to the coarse grind and relatively cool water. Acidity is tunable rather than maximised; body is medium-light in standard form, heavier in the many-pour variant. On the Kasuya dripper, expect the same method more concentrated, sweeter and rounder than on a standard V60.",
+  "grind": "Medium-coarse to coarse — coarser than Hoffmann/Rao, so the bed survives 5 draining pours",
+  "name": "Kasuya 4:6 — on the Kasuya V60",
+  "ratioLabel": "1:15",
+  "slug": "kasuya_46_kasuya",
+  "sourceUrls": [
+   "https://www.coffeecalculator.app/blog/tetsu-kasuya-46-method",
+   "https://coffee-infos.com/en/articles/the-46-method",
+   "https://www.coffeeinformer.com/v60-brewing-method/"
+  ],
+  "steps": [
+   {
+    "at": "",
+    "text": "Rinse the filter, preheat, dose the coffee and level the bed.",
+    "to": null
+   },
+   {
+    "at": "0:00",
+    "text": "Pour 1 — spiral, centre out. Pours 1–2 together are the first 40%: this is your acidity ↔ sweetness dial (see How it works).",
+    "to": 60
+   },
+   {
+    "at": "0:45",
+    "text": "Pour 2 — the 40% phase is complete. Kasuya pours on the clock, about every 45 seconds, letting the bed drain substantially each time.",
+    "to": 120
+   },
+   {
+    "at": "1:30",
+    "text": "Pour 3 — the last 60% begins. Strength here is set by the NUMBER of pours, not the volume.",
+    "to": 180
+   },
+   {
+    "at": "2:15",
+    "text": "Pour 4.",
+    "to": 240
+   },
+   {
+    "at": "2:45",
+    "text": "Pour 5 — some transcriptions put this pour at 3:00; both circulate.",
+    "to": 300
+   },
+   {
+    "at": "3:30",
+    "text": "Drawdown done — lift the dripper off.",
+    "to": null
+   }
+  ],
+  "suits": "Almost everything — especially medium roasts and washed coffees where you want sweetness without muting acidity. A first dial-in method for a new bean, because it isolates two variables. Less ideal for very dense ultra-light Nordic roasts that need maximum heat and extraction. This is the dripper the 4:6 was designed on — and it is on your shelf.",
+  "tempLabel": "92°C (Kasuya's roast ladder: 93°C light · 88°C medium · 83°C dark)",
+  "theory": "The first 40% (120 g, in 2 pours) controls the acidity ↔ sweetness balance. Equal 60 + 60 is balanced. A SMALLER first pour (e.g. 40 g, then 80 g) brews SWEETER; a LARGER first pour (e.g. 80 g, then 40 g) brews BRIGHTER — the first water extracts proportionally more of the early, acidic fraction, and shifting volume between pours 1 and 2 shifts how much of that phase is diluted. The last 60% (180 g) controls strength and body by pour COUNT: standard is 3 × 60 g; fewer, larger pours (2 × 90 g) brew lighter and cleaner; more, smaller pours (4 × 45 g) brew stronger and heavier, because each new pour re-raises the concentration gradient and agitation. The total volume never changes. Note: some secondary variant tables label the strength direction the other way round — the direction above is the majority, Hario-published one. On the Kasuya Model dripper itself, the customised ribs — deeper, shorter, stopping before the hole — hold water longer than a standard V60, so the same 4:6 pours drain slower and extract more: in Kurasu's back-to-back test the Kasuya was still holding ~2/3 of its water when the classic had nearly finished, and read TDS 2.14% vs 1.21% (test-specific numbers, not a general spec — other tests found a smaller gap). If a standard-V60 4:6 recipe stalls or tastes heavy on this dripper, grind coarser before changing anything else.",
+  "totalTime": "~3:30",
+  "verified": "index",
+  "waterGrams": 300
+ },
+ {
+  "creator": "Clever Dripper (HandyBrew / Abid, Taiwan) — the standard guides",
+  "difficulty": "Beginner — the easiest method here",
+  "doseGrams": 20,
+  "dripperSlug": "clever",
+  "flavour": "Fuller and rounder than pour-over, cleaner and sediment-free versus a French press. The most repeatable cup in the library.",
+  "grind": "Medium-coarse",
+  "name": "Clever Dripper — Steep & Release",
+  "ratioLabel": "1:15",
+  "slug": "clever_immersion",
+  "sourceUrls": [
+   "https://coffeenerds.co.uk/pages/clever-dripper-recipe-uk",
+   "https://www.coffeehit.co.uk/products/clever-coffee-dripper",
+   "http://eightouncecoffee.ca/products/clever-dripper"
+  ],
+  "steps": [
+   {
+    "at": "",
+    "text": "Filter in (#2 in the 300 ml, #4 in the 500 ml), rinse it, and set the Clever on its coaster — the base pin holds the valve shut while it sits there.",
+    "to": null
+   },
+   {
+    "at": "0:00",
+    "text": "Water in first, then the coffee on top (the water-first protocol: 18.5 g : 310 g, total brew 2:30). Or coffee first, then all the water — both circulate; water-first draws down cleaner.",
+    "to": 300
+   },
+   {
+    "at": "1:10",
+    "text": "Break the crust — a gentle stir or swirl so every ground sinks and wets.",
+    "to": null
+   },
+   {
+    "at": "2:30",
+    "text": "Steep's done. Credible guides range 2–3 min, up to ~4 min for a fuller cup (20 g : 300 g at 92–96°C is the consensus build). Set the Clever on your mug or server: the rim lifts the valve pin, the valve opens, and it drains.",
+    "to": null
+   },
+   {
+    "at": "3:15",
+    "text": "Drawdown done in ~30–45 s. Lift it off and the flow stops — serve.",
+    "to": null
+   }
+  ],
+  "suits": "Any coffee you want consistent and hands-off; medium and darker roasts; naturals and fermented lots you want to keep gentle (steep cooler, 90–92°C). It is also the natural stand-in for Switch-style immersion recipes when no Switch is to hand.",
+  "tempLabel": "92–96°C across the guides (one water-first protocol runs hotter, just off the boil)",
+  "theory": "Full immersion, then release. While the Clever sits on its coaster, a base pin holds the shut-off valve closed, so the coffee steeps with zero drainage and extraction evens out on its own — no pour technique, no channeling. Setting it on a mug pushes the pin up, opens the valve, and the brew drains through the paper: immersion body with paper clarity and no French-press sediment. Immersion-only — unlike the Hario Switch there is no open pour-over mode. The honest ranges across credible sources: dose 18–21 g per 300–340 ml, ratio 1:15–1:16.7, medium-coarse grind, steep 2–3 min (up to 4), total 3–4 min.",
+  "totalTime": "~3:00–4:00",
+  "verified": "index",
+  "waterGrams": 300
+ }
+]
